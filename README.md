@@ -68,9 +68,10 @@ The **Warehouse Portal** helps logistics teams efficiently handle returned produ
   - **Green:** Proper condition → Directly returned to the seller.  
   - **Yellow:** Minor defects → Sent for repair/refurbishment.  
 - **Return Processing Queue:** Displays pending returns and their assigned category.  
-- **Quality Control & Inspection:** Warehouse personnel can manually update item conditions if necessary.  
 - **Stock Management for Refurbished Items:** Track repaired/refurbished products that can be resold.  
-- **Logistics & Route Optimization:** Uses AI-driven route planning for efficient return pickups and warehouse transfers.  
+- **Logistics & Route Optimization:** Uses AI-driven route planning for efficient return pickups and warehouse transfers.
+Driver Manifest: Lists all orders to be picked based on route optimization.
+Route optimization considers distance, time, fuel cost, and CO₂ emissions.
 - **Sustainability Reports:** Tracks how many returns were recycled or repurposed instead of discarded.  
 
 ---
