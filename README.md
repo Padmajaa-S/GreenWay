@@ -66,13 +66,18 @@ The **Warehouse Portal** helps logistics teams efficiently handle returned produ
   - **Red:** Unusable condition → Sent for recycling.  
   - **Blue:** Needs manual review → Further inspection required.  
   - **Green:** Proper condition → Directly returned to the seller.  
-  - **Yellow:** Minor defects → Sent for repair/refurbishment.  
+  - **Yellow:** Minor defects → Sent for repair/refurbishment.
+  - - **Stock Management for Refurbished Items:** Track repaired/refurbished products that can be resold.  
+
+    ![image](https://github.com/user-attachments/assets/47ffb47c-cf8c-430b-af45-84599c9bb346)
+
 - **Return Processing Queue:** Displays pending returns and their assigned category.  
-- **Stock Management for Refurbished Items:** Track repaired/refurbished products that can be resold.  
 - **Logistics & Route Optimization:** Uses AI-driven route planning for efficient return pickups and warehouse transfers.
+  ![image](https://github.com/user-attachments/assets/15ce63a1-1f6b-4e4f-ae30-e1da3cbc636b)
+
 Driver Manifest: Lists all orders to be picked based on route optimization.
 Route optimization considers distance, time, fuel cost, and CO₂ emissions.
-- **Sustainability Reports:** Tracks how many returns were recycled or repurposed instead of discarded.  
+  ![image](https://github.com/user-attachments/assets/17c6f079-1267-4039-9ea6-3b6480fd0538)
 
 ---
 
