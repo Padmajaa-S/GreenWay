@@ -28,6 +28,7 @@ The **User Portal** allows customers to submit product returns with proper verif
 - **Fraud Detection System:** If a user is flagged for frequent suspicious returns, they will receive a warning, and their returns may be subjected to additional verification.  
 - **Eco-Friendly Insights:** Users are shown sustainability metrics (e.g., "Your return has helped reduce X kg of waste").  
 - **Customer Support:** Integrated chatbot or ticketing system for users to inquire about their returns.  
+![image](https://github.com/user-attachments/assets/53f5b40f-cc87-4291-96d4-d0af9ccfc3b8)
 
 ---
 
@@ -42,12 +43,14 @@ The **Admin Portal** provides an overview of the return operations, fraud detect
 - **Return Reason Analysis:** Tracks the most common return reasons.  
 - **Warehouse Processing Status:** Overview of return statuses at different warehouse locations.  
 - **User Activity & Flagged Accounts:** Admins can view user return patterns and flag high-risk users.
+  ![image](https://github.com/user-attachments/assets/c98ff1eb-5993-4e50-b324-bfecea04a171)
 
 ### **2. Sustainable Dashboard**
 - **CO₂ Emissions Savings:** Estimates carbon footprint reductions from optimized return logistics.  
 - **E-Waste Management:** Displays the percentage of returned products that were repaired, recycled, or resold.  
 - **Sustainability Scorecard:** Tracks the overall impact of Greenway’s return policies on environmental sustainability.  
 - **Trends & Benchmarks:** Time-series insights comparing sustainable return processing over months.  
+   ![image](https://github.com/user-attachments/assets/f784221e-b02c-460b-b4e9-724c62ac0c68)
 
 ### **3. Cost Analysis Dashboard**
 - **Return Cost Breakdown:** Analyzes refund amounts, processing costs, and logistics expenses.  
@@ -55,6 +58,7 @@ The **Admin Portal** provides an overview of the return operations, fraud detect
 - **Warehouse Costs:** Reports expenses related to product handling, repair, and storage.  
 - **Return Profitability:** Compares refunds issued vs. revenue recovered from resale/refurbishment.  
 - **Cost Alerts:** Notifies admins of cost spikes and inefficiencies.  
+  ![image](https://github.com/user-attachments/assets/8482b7c3-c546-4be1-98f2-c30696489536)
 
 ---
 
@@ -73,10 +77,11 @@ The **Warehouse Portal** helps logistics teams efficiently handle returned produ
 
 - **Return Processing Queue:** Displays pending returns and their assigned category.  
 - **Logistics & Route Optimization:** Uses AI-driven route planning for efficient return pickups and warehouse transfers.
+  
   ![image](https://github.com/user-attachments/assets/15ce63a1-1f6b-4e4f-ae30-e1da3cbc636b)
 
-Driver Manifest: Lists all orders to be picked based on route optimization.
-Route optimization considers distance, time, fuel cost, and CO₂ emissions.
+- Driver Manifest: Lists all orders to be picked based on route optimization.
+  Route optimization considers distance, time, fuel cost, and CO₂ emissions.
   ![image](https://github.com/user-attachments/assets/17c6f079-1267-4039-9ea6-3b6480fd0538)
 
 ---
