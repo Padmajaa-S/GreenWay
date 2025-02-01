@@ -27,7 +27,7 @@ The **User Portal** allows customers to submit product returns with proper verif
 - **Return History:** View past return requests along with refund amounts and statuses.  
 - **Fraud Detection System:** If a user is flagged for frequent suspicious returns, they will receive a warning, and their returns may be subjected to additional verification.
   
-![image](https://github.com/user-attachments/assets/53f5b40f-cc87-4291-96d4-d0af9ccfc3b8)
+  ![image](https://github.com/user-attachments/assets/53f5b40f-cc87-4291-96d4-d0af9ccfc3b8)
 - MarketPlace: Selling refurbished products at discounted price based on defect depth.
   
   ![image](https://github.com/user-attachments/assets/afc53a5a-e981-4666-900f-67cde6cc2806)
@@ -79,7 +79,7 @@ The **Warehouse Portal** helps logistics teams efficiently handle returned produ
   - **Yellow:** Minor defects → Sent for repair/refurbishment.
   - - **Stock Management for Refurbished Items:** Track repaired/refurbished products that can be resold.  
 
-    ![image](https://github.com/user-attachments/assets/47ffb47c-cf8c-430b-af45-84599c9bb346)
+   ![image](https://github.com/user-attachments/assets/47ffb47c-cf8c-430b-af45-84599c9bb346)
 
 - **Return Processing Queue:** Displays pending returns and their assigned category.  
 - **Logistics & Route Optimization:** Uses AI-driven route planning for efficient return pickups and warehouse transfers.
