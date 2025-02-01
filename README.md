@@ -26,9 +26,10 @@ The **User Portal** allows customers to submit product returns with proper verif
 - **Return Status Tracking:** Users can track the progress of their return (e.g., "Pending Review," "Approved," "Rejected," "Under Processing").  
 - **Return History:** View past return requests along with refund amounts and statuses.  
 - **Fraud Detection System:** If a user is flagged for frequent suspicious returns, they will receive a warning, and their returns may be subjected to additional verification.  
-- **Eco-Friendly Insights:** Users are shown sustainability metrics (e.g., "Your return has helped reduce X kg of waste").  
-- **Customer Support:** Integrated chatbot or ticketing system for users to inquire about their returns.  
 ![image](https://github.com/user-attachments/assets/53f5b40f-cc87-4291-96d4-d0af9ccfc3b8)
+- MarketPlace: Selling refurbished products at discounted price based on defect depth.
+  ![image](https://github.com/user-attachments/assets/afc53a5a-e981-4666-900f-67cde6cc2806)
+
 
 ---
 
