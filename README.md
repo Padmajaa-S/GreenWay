@@ -3,10 +3,6 @@
 ✨ Proudly Presented by Team **ZOEO**: Tamanna Grover, Padmajaa, Nidhi, and Vigneshvar ✨
 
 For the **Prestigious** ![K! HACKS 2.0](https://github.com/Padmajaa-S/GreenWay/blob/main/Essential-Images/Khacksimage.png)
-Here’s a **README.md** file for your Greenway project. Let me know if you'd like any modifications! 🚀  
-Here’s a structured README file for the **User Tab, Admin Tab, and Warehouse Tab**, covering their respective features:
-
----
 
 # **Greenway Return Optimization System**  
 *Efficient, sustainable, and cost-optimized return management solution.*
@@ -29,7 +25,7 @@ The **User Portal** allows customers to submit product returns with proper verif
 - **Image Upload & Verification:** Users upload product images, which are checked using AI-powered similarity detection to ensure authenticity.  
 - **Return Status Tracking:** Users can track the progress of their return (e.g., "Pending Review," "Approved," "Rejected," "Under Processing").  
 - **Return History:** View past return requests along with refund amounts and statuses.  
-- **Spam Detection System:** If a user is flagged for frequent suspicious returns, they will receive a warning, and their returns may be subjected to additional verification.  
+- **Fraud Detection System:** If a user is flagged for frequent suspicious returns, they will receive a warning, and their returns may be subjected to additional verification.  
 - **Eco-Friendly Insights:** Users are shown sustainability metrics (e.g., "Your return has helped reduce X kg of waste").  
 - **Customer Support:** Integrated chatbot or ticketing system for users to inquire about their returns.  
 
@@ -83,8 +79,7 @@ The **Warehouse Portal** helps logistics teams efficiently handle returned produ
 - **Frontend:** Vite.js (React)  
 - **Backend:** Node.js (Express.js)  
 - **Database:** MongoDB (NoSQL)  
-- **Machine Learning:** Python (Scikit-learn, TensorFlow for return spam prediction)  
-- **Cloud Hosting:** AWS/GCP  
+- **Machine Learning:** Python (Flask- API)  
 
 ---
 
