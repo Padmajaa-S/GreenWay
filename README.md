@@ -25,9 +25,11 @@ The **User Portal** allows customers to submit product returns with proper verif
 - **Image Upload & Verification:** Users upload product images, which are checked using AI-powered similarity detection to ensure authenticity.  
 - **Return Status Tracking:** Users can track the progress of their return (e.g., "Pending Review," "Approved," "Rejected," "Under Processing").  
 - **Return History:** View past return requests along with refund amounts and statuses.  
-- **Fraud Detection System:** If a user is flagged for frequent suspicious returns, they will receive a warning, and their returns may be subjected to additional verification.  
+- **Fraud Detection System:** If a user is flagged for frequent suspicious returns, they will receive a warning, and their returns may be subjected to additional verification.
+  
 ![image](https://github.com/user-attachments/assets/53f5b40f-cc87-4291-96d4-d0af9ccfc3b8)
 - MarketPlace: Selling refurbished products at discounted price based on defect depth.
+  
   ![image](https://github.com/user-attachments/assets/afc53a5a-e981-4666-900f-67cde6cc2806)
 
 
@@ -44,13 +46,15 @@ The **Admin Portal** provides an overview of the return operations, fraud detect
 - **Return Reason Analysis:** Tracks the most common return reasons.  
 - **Warehouse Processing Status:** Overview of return statuses at different warehouse locations.  
 - **User Activity & Flagged Accounts:** Admins can view user return patterns and flag high-risk users.
+  
   ![image](https://github.com/user-attachments/assets/c98ff1eb-5993-4e50-b324-bfecea04a171)
 
 ### **2. Sustainable Dashboard**
 - **CO₂ Emissions Savings:** Estimates carbon footprint reductions from optimized return logistics.  
 - **E-Waste Management:** Displays the percentage of returned products that were repaired, recycled, or resold.  
 - **Sustainability Scorecard:** Tracks the overall impact of Greenway’s return policies on environmental sustainability.  
-- **Trends & Benchmarks:** Time-series insights comparing sustainable return processing over months.  
+- **Trends & Benchmarks:** Time-series insights comparing sustainable return processing over months.
+  
    ![image](https://github.com/user-attachments/assets/f784221e-b02c-460b-b4e9-724c62ac0c68)
 
 ### **3. Cost Analysis Dashboard**
@@ -58,7 +62,8 @@ The **Admin Portal** provides an overview of the return operations, fraud detect
 - **Fuel & Logistics Cost:** Tracks fuel usage, tolls, and route optimization savings.  
 - **Warehouse Costs:** Reports expenses related to product handling, repair, and storage.  
 - **Return Profitability:** Compares refunds issued vs. revenue recovered from resale/refurbishment.  
-- **Cost Alerts:** Notifies admins of cost spikes and inefficiencies.  
+- **Cost Alerts:** Notifies admins of cost spikes and inefficiencies.
+  
   ![image](https://github.com/user-attachments/assets/8482b7c3-c546-4be1-98f2-c30696489536)
 
 ---
@@ -83,6 +88,7 @@ The **Warehouse Portal** helps logistics teams efficiently handle returned produ
 
 - Driver Manifest: Lists all orders to be picked based on route optimization.
   Route optimization considers distance, time, fuel cost, and CO₂ emissions.
+  
   ![image](https://github.com/user-attachments/assets/17c6f079-1267-4039-9ea6-3b6480fd0538)
 
 ---
