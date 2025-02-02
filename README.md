@@ -1,10 +1,8 @@
 # GreenWay: Intelligent Returns Management Platform (a SAAS product)​🗺️
+*Efficient, sustainable, and cost-optimized return management solution.*
 
 
 ![K! HACKS 2.0](https://github.com/Padmajaa-S/GreenWay/blob/main/Essential-Images/Khacksimage.png)
-
-# **Greenway Return Optimization System**  
-*Efficient, sustainable, and cost-optimized return management solution.*
 
 
 ## **Overview**  
