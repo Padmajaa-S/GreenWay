@@ -1,11 +1,10 @@
-# GreenWay: Return Route Optimization System🗺️
-
-✨ Proudly Presented by Team **ZOEO**: Tamanna Grover, Padmajaa, Nidhi, and Vigneshvar ✨
+# GreenWay: Intelligent Returns Management Platform (a SAAS product)​🗺️
 
 For the **Prestigious** ![K! HACKS 2.0](https://github.com/Padmajaa-S/GreenWay/blob/main/Essential-Images/Khacksimage.png)
 
 # **Greenway Return Optimization System**  
 *Efficient, sustainable, and cost-optimized return management solution.*
+
 
 ## **Overview**  
 Greenway is a return optimization system designed to streamline product returns, detect fraudulent returns, improve warehouse efficiency, and optimize logistics with a focus on sustainability and cost savings.
