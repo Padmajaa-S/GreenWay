@@ -1,4 +1,4 @@
-# GreenWay: Intelligent Returns Management Platform (a SAAS product)​🗺️
+# GreenWay: Intelligent Returns Management Platform (A SAAS Product)​🗺️
 *Efficient, sustainable, and cost-optimized return management solution.*
 
 
